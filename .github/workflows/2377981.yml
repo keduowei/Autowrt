@@ -18,10 +18,10 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/dailook/immortalwrt-mt798x-23.05
+  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-23.05
   REPO_BRANCH: openwrt-23.05
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: dailook.config
+  CONFIG_FILE: 2377981.config
   DIY_P1_SH: diy-part3.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false
